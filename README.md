@@ -1,2 +1,2 @@
 # meta-data-engineer
-practice for mata data engineer 
+practice for meta data engineer 
